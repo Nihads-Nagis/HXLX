@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+mdbook-preprocessor = "0.5.2"
+pulldown-cmark = "0.13.0"
+toml_edit = "0.24.0"
