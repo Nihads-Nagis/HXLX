@@ -1,18 +1,16 @@
-# AMBAAAAAAAA
+# 1. Prelude
 
-# JUST CONFIGURED IT 
-
-# ITS EMPTY NOW LOL, 
-
-# BUT, 
-
-# IN THE NEXT 4 DAYS, 
-
-# MORE THAN 50K LINES OR RESEARCH
-
-# WILL BE HERE FABOULOUSLY
-
-# BOOKMARK IT
-
-# MERRY XMAS AMBAAAAAAAA
-
+```mermaid
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```
+	
