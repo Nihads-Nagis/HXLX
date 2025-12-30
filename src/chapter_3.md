@@ -7,7 +7,7 @@
   
   ---
   
-  ## Hx⁰ Pixel — 4D Computation Atoms
+  ## Hx⁰⁰ Pixel — 4D Computation Atoms
   **Status:** Active  
   **Summary:** Multi-dimensional computational atoms using RGB(A) channels as parallel data transport layers.
   
@@ -22,7 +22,7 @@
   
   ---
   
-  ## Hx¹ Framebuffers → Data Directing Buffers
+  ## Hx⁰¹ Framebuffers → Data Directing Buffers
   **Status:** Active  
   **Summary:** Primary/secondary buffers become physical synchronization planes.
   
@@ -34,10 +34,14 @@
   
   > **Tech+ Layer** (Advanced/Virtual)  
   > Buffers form a DAG of compute-routing steps, enabling multi-stage distributed GPU computation and scalable orchestration.
-  
+  > **Metrics**
+  > Frame Buffer Metrics:
+    - 4K = 8.3M pixels/frame = 33MB
+    - 60 FPS = 2GB/s throughput
+    - 240 FPS = 8.3GB/s throughput
   ---
   
-  ## Hx² Operating Systems → Operating States
+  ## Hx⁰² Operating Systems → Operating States
   **Status:** Active  
   **Summary:** Boot state, cache registers, indexed stacks.
   
@@ -52,7 +56,7 @@
   
   ---
   
-  ## Hx³ MultiMedia → Modal Triplet
+  ## Hx⁰³ MultiMedia → Modal Triplet
   **Status:** Active  
   **Summary:** Visual–Audio–Text hierarchical bandwidth semantics.
   
@@ -67,7 +71,7 @@
   
   ---
   
-  ## Hx⁴ Bandwidth Constraints — Hierarchical Control
+  ## Hx⁰⁴ Bandwidth Constraints — Hierarchical Control
   **Status:** Active  
   **Summary:** Control hierarchy discovered via bandwidth density.
   
@@ -82,7 +86,7 @@
   
   ---
   
-  ## Hx⁵ Media Formats — Containerized Control (Process)
+  ## Hx⁰⁵ Media Formats — Containerized Control (Process)
   **Status:** Active  
   **Summary:** Video containers as deterministic computational processes.
   
@@ -95,9 +99,15 @@
   > **Tech+ Layer** (Advanced/Virtual)  
   > Video, audio, and text streams are interpreted as computational steps, enabling portable and verifiable execution.
   
-  ---
+  > **Metrics**
+    > Three synchronized channels:
+      1. Video (Frame) - Primary data
+      2. Audio - Dynamic checksums/thunder security
+      3. Text - Subtitles for logging/output
+  Capability: Multiple MP4s at different FPS (SIMD/SIMT)
+  --- 
   
-  ## Hx⁶ Tripartite Security
+  ## Hx⁰⁶ Tripartite Security
   **Status:** Active  
   **Summary:** Video, audio, and text consensus before encryption.
   
@@ -112,7 +122,7 @@
   
   ---
   
-  ## Hx⁷ Framebuffer Control
+  ## Hx⁰⁷ Framebuffer Control
   **Status:** Active  
   **Summary:** Stage/Backstage dual-buffer GPU orchestration.
   
@@ -127,7 +137,7 @@
   
   ---
   
-  ## Hx⁸ Broadway Framebuffer Multiplier
+  ## Hx⁰⁸ Broadway Framebuffer Multiplier
   **Status:** Active  
   **Summary:** Scaling to 1024 FB stages; VR as emergent projection.
   
@@ -142,7 +152,7 @@
   
   ---
   
-  ## Hx⁹ Native Testers — Swissknife
+  ## Hx⁰⁹ Native Testers — Swissknife
   **Status:** Active  
   **Summary:** Leverage existing POST testers for system introspection.
   
@@ -186,7 +196,7 @@
   > Data simulators generate synthetic training data; randomness sequences enable exploration of unseen data states.
   
   ---
-  ## Hx¹²  WebMod — Structured CSS Geometry Engine
+  ## Hx¹² WebMod — Structured CSS Geometry Engine
   **Status:** Active  
   **Summary:** Browser-native modelling engine with layered native bindings
   
