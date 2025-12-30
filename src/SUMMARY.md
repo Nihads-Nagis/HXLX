@@ -1,3 +1,11 @@
 # Summary
-
 - [Prelude](./chapter_1.md)
+- [Concepts](./chapter_2.md)
+- [Core](./chapter_3.md)
+- [Model](./chapter_4.md)
+- [Moat](./chapter_5.md)
+- [Market](./chapter_6.md)
+- [Vision](./chapter_7.md)
+- [Strategy](./chapter_8.md)
+- [Value](./chapter_9.md)
+- [XSPX](./chapter_10.md)
