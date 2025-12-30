@@ -186,8 +186,8 @@ The Hexes below define the foundational computational primitives of the framewor
 > Data simulators generate synthetic training data; randomness sequences enable exploration of unseen data states.
 
 ---
+## Hx¹²  WebMod — Structured CSS Geometry Engine
 
-## Hx³¹ WebMod — Structured CSS Geometry Engine
 **Status:** Active  
 **Summary:** Browser-native modelling engine with layered native bindings
 
@@ -202,7 +202,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx¹² Raytracing → Computational Photometry
+## Hx¹³ Raytracing → Computational Photometry
 **Status:** Active  
 **Summary:** Truth-preserving state propagation.
 
@@ -217,7 +217,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx¹³ Location Based Rendering
+## Hx¹⁴ Location Based Rendering
 **Status:** Active  
 **Summary:** Spatially-aware rendering.
 
@@ -232,7 +232,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx¹⁴ RLAmbience Positioning System
+## Hx¹⁵ RLAmbience Positioning System
 **Status:** Active  
 **Summary:** Triangulates reality using visual and auditory signatures.
 
@@ -247,7 +247,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx¹⁵ ABBA — Ambience & Behavioral Security Metrics
+## Hx¹⁶ ABBA — Ambience & Behavioral Security Metrics
 **Status:** Active  
 **Summary:** Profiles user/device behavior.
 
@@ -262,7 +262,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx¹⁶ Universes C(olor)RS
+## Hx¹⁷ Universes C(olor)RS
 **Status:** Active  
 **Summary:** Color-coded multiverse representations.
 
@@ -277,7 +277,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx¹⁷ Serious Problem Gaming
+## Hx¹⁸ Serious Problem Gaming
 **Status:** Active  
 **Summary:** Finite combinatorial universes as playable realities.
 
@@ -291,6 +291,8 @@ The Hexes below define the foundational computational primitives of the framewor
 > Parallel universes allow stochastic testing and AI-driven scenario evaluation without affecting primary systems.
 
 ---
+
+
 
 ## Hx¹⁹ Bi-Tracing
 **Status:** Active  
@@ -397,7 +399,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx²⁷ Genetic Gits
+## Hx²⁶ Genetic Gits
 **Status:** Active  
 **Summary:** Git commits as digital cells and evolutionary learning memory.
 
@@ -412,7 +414,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx²⁸ HoT (Hive of Things)
+## Hx²⁷ HoT (Hive of Things)
 **Status:** Active  
 **Summary:** Cross-device genetic hive architecture.
 
@@ -427,7 +429,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx²⁹ HiveOS
+## Hx²⁸ HiveOS
 **Status:** Active  
 **Summary:** GPU-centric, convolution-native, universe-executing OS.
 
@@ -442,7 +444,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx³⁰ HoT Sensory
+## Hx²⁹ HoT Sensory
 **Status:** Active  
 **Summary:** Multi-modal sensor integration.
 
@@ -457,7 +459,7 @@ The Hexes below define the foundational computational primitives of the framewor
 
 ---
 
-## Hx¹⁸ Crystals — 7D Logic Classes
+## Hx³ Crystals — 7D Logic Classes
 **Status:** Active  
 **Summary:** Crystal gates for higher-order logic.
 
@@ -534,8 +536,6 @@ a
 
 *Depth: 3*
 
-a
-
 ---
 
 ## Hx³⁹ 80+ Black Cubes
@@ -543,8 +543,6 @@ a
 **Status:** Danger
 
 *Depth: 3*
-
-D
 
 ---
 
