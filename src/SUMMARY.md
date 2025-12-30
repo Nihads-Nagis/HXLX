@@ -8,4 +8,7 @@
 - [Vision](./chapter_7.md)
 - [Strategy](./chapter_8.md)
 - [Value](./chapter_9.md)
-- [XSPX](./chapter_10.md)
+- [XPX](./chapter_10.md)
+  - [META](./XpXMeta.md)
+  - [XX08](./XpX08.md)
+  - [XX26](./XpX26.md)
