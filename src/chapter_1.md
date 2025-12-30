@@ -4,13 +4,11 @@
 
 > “Every visual element is simultaneously a computational element; seeing = computing.”
 
-“(9)999”—represents a **Light-Based Computation Stack** unifies optics, GPUs, and AI into New logic medium:*the pixel as computational atom.*
+“HXLX: HeXy LuX”—represents a **Light-Based Computation Stack** unifies optics, GPUs, and AI into New logic medium:*the pixel as computational atom.*
 
 Future of computing lies in **spectral logic**, not transistor density.
 
 The goal is not funding. It is **identification** —of believers, builders, and future allies.
-
-Releasing **V0.9999 on 1111** not as a product, but as a **a **global tech filter for vision**.**
 
 *Post-GPU framework* for how AI, video, and simulation converge.
 
