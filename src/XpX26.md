@@ -1,32 +1,3 @@
----
-id: 9901
-title: Digital Git
-description: Full Digital Body paradigm, not just an abstract computational substrate.
-slug: /DGit
-sidebar_label: Digitial Hive
-sidebar_position: 11
-author:  Nihad Nagi
-version: 0.1.0
-last_modified: 2025-11-09 17:56
-save_count: 1
-file_name: DGit.md
-file_path: docs/9/DGit.md
-tags:
-  - guide
-  - reference
-draft: false
-hide_title: false
-hide_table_of_contents: false
-pagination_prev: null
-pagination_next: null
-toc_min_heading_level: 2
-toc_max_heading_level: 5
-keywords:
-  - keyword1
-  - keyword2
-image: /img/cover.png
----
-
 ## The Digital Body Structure
 
 ### 1. DBN = Brain
