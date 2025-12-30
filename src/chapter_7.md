@@ -1,1 +1,1 @@
-# 7. Strategy
+# 7. Vision

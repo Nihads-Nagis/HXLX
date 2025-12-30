@@ -1,1 +1,1 @@
-# 8. Value
+# 8. Strategy
