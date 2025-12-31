@@ -2,6 +2,8 @@
 
 ## Back to the Future
 
+> We are building the computational nervous system for planetary consciousness - a complete reinvention of computing where light becomes understanding, pixels become logic cells, and human attention becomes the fundamental currency of a new economic system.
+
 > “Every visual element is simultaneously a computational element; seeing = computing.”
 
 “HXLX: HeXy LuX”—represents a **Light-Based Computation Stack** unifies optics, GPUs, and AI into New logic medium:*the pixel as computational atom.*
