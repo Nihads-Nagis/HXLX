@@ -28,6 +28,23 @@ sudo modprobe vivid node_types=0x100 num_outputs=2 output_types=0x03
 ```
 > The driver provides many other options for fine-tuning, including crop/compose/scale capabilities and memory allocator selection
 
+```bash
+# INPUT: Module parameters defining pipeline
+sudo modprobe vivid node_types=0x101 num_inputs=1 num_outputs=1 input_types=0x02 output_types=0x02
+
+# PROCESS: Vivid creates...
+# 1. Virtual HDMI source (/dev/video0)
+# 2. Virtual HDMI sink (/dev/video1)
+# 3. Internal frame buffer connection
+
+# OUTPUT: Applications can now...
+v4l2-ctl -d /dev/video0 --set-fmt-video=width=1920,height=1080
+v4l2-ctl -d /dev/video1 --set-fmt-video=width=1920,height=1080
+
+# Complete the virtual pipeline
+ffmpeg -f v4l2 -i /dev/video0 -f v4l2 /dev/video1
+```
+
 ```mermaid
 classDiagram
   class VividKernelModule {
