@@ -43,3 +43,27 @@ DBN + Gits = Brain controlling body, learning from sensory streams, and committi
     Cross-device coordination via HoT acts as the nervous system, distributing computations and state propagation.
 
     It connects multiple “bodies” or sub-Gits across the network into a single functional organism.
+
+2.4 Organismic Computing Model
+
+Living System Properties:
+
+    Metabolism: AI processes convert data → understanding → action
+
+    Homeostasis: Automatic rollbacks maintain system stability
+
+    Evolution: MORPHS branch allows safe experimentation
+
+    Immunity: CHRONICS branch quarantines anomalies
+
+    Reproduction: Colony-wide learning and state propagation
+
+Consciousness-Adjacent Features:
+
+    Self-monitoring via Reality Engine perception
+
+    Predictive anomaly detection
+
+    Collective learning across device colonies
+
+    Semantic understanding of own state and purpose
