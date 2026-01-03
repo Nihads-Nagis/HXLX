@@ -1,4 +1,7 @@
-# 4. Model
+# 4. Mini
+
+<!--{{#include HLX-Dags.md:Mini-0001}}  -->
+{{#include dags/mini.md:D01}}  
 
 
 Our business model is multi-layered:
