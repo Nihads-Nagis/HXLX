@@ -1,67 +1,46 @@
 # 3. MICRO-HXs
 
+This is a unified theory of computation based on photometry, bandwidth semantics, multiverse sampling, and genetic version-controlled memory.
 
-## Audience & Comprehension Model (RGBA)
-
-The architecture is intentionally stratified. Each layer is complete on its own.
-
-RED — Infra / Physical
-Engineers, systems builders, hardware‑aware practitioners. Deterministic, implementable primitives.
-
-GREEN — Subsurface / Systems
-Architects, GPU/OS designers, distributed systems thinkers. Cross‑layer orchestration and scalability.
-
-BLUE — Ionosphere / Virtual
-AI, simulation, perception, and theory builders. Predictive, reversible, multi‑modal intelligence.
-
-ALPHA — Space / Frontier
-Reserved for synthesis by advanced models and future intelligences. Speculative, emergent, consciousness‑adjacent.
-
-Understanding RED alone is sufficient to build.
-Some will infer BLUE from RED.
-ALPHA is not required—it emerges.
-
-
-
-
-
-Core Principle
+## Core Principle
 
 The pixel is the seed.
 
 Pixels are not visual artifacts. They are 4D computational atoms carrying state, memory, causality, and direction across RGBA channels mapped onto the EM spectrum:
-
-R: Infra / physical state
-
-G: Subsurface / interaction
-
-B: Ionospheric / abstraction
-
-A: Out‑of‑world / latent potential
+- R: Infra / physical state
+- G: Subsurface / interaction
+- B: Ionospheric / abstraction
+- A: Out‑of‑world / latent potential
 
 All higher systems recurse from this unit.
 
-This is a unified theory of computation based on photometry, bandwidth semantics, multiverse sampling, and genetic version-controlled memory.
+### Audience & Comprehension Model (RGBA)
+
+The architecture is intentionally stratified. Each layer is complete on its own.
+
+> RED — Infra / Physical
+Engineers, systems builders, hardware‑aware practitioners. Deterministic, implementable primitives.
+
+> GREEN — Subsurface / Systems
+Architects, GPU/OS designers, distributed systems thinkers. Cross‑layer orchestration and scalability.
+
+> BLUE — Ionosphere / Virtual
+AI, simulation, perception, and theory builders. Predictive, reversible, multi‑modal intelligence.
+
+> ALPHA — Space / Frontier
+Reserved for synthesis by advanced models and future intelligences. Speculative, emergent, consciousness‑adjacent.
+
+- Understanding RED alone is sufficient to build.
+- Some will infer BLUE from RED.
+- ALPHA is not required—it emerges.
 
 The Hexes below define the foundational computational primitives of the framework.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ---
+## Core Hexes
+### Hx00–Hx04 · Foundational Substrate
 
-## Hx00–Hx04 · Foundational Substrate
-
-### Hx00: Pixel — 4D Computation Atoms
+#### Hx00: Pixel — 4D Computation Atoms
 **Status:** Active  
 **Summary:** Multi-dimensional computational atoms using RGB(A) channels as parallel data transport layers.
 
@@ -78,7 +57,7 @@ The Hexes below define the foundational computational primitives of the framewor
 > Pixels achieve computational self-awareness, negotiating state changes with neighboring pixels to form emergent, transient logic gates. They can predict and reverse local computation paths to maintain consensus with the broader manifold, becoming quasi-conscious cells in a larger synthetic tissue.
 ---
 
-### Hx01: Framebuffers → Data Directing Buffers
+#### Hx01: Framebuffers → Data Directing Buffers
 **Status:** Active  
 **Summary:** Primary/secondary buffers become physical synchronization planes.
 
@@ -95,13 +74,13 @@ The Hexes below define the foundational computational primitives of the framewor
 > Framebuffers evolve into temporal manifolds, where the stage/backstage duality collapses into a single, reversible computation field. They can run simulation steps backwards to diagnose origin points of state anomalies, enabling autonomous healing of corrupted data flows across the entire network.
 
 > **Metrics**
-> Frame Buffer Metrics:
+  - Frame Buffer Metrics:
   - 4K = 8.3M pixels/frame = 33MB
   - 60 FPS = 2GB/s throughput
   - 240 FPS = 8.3GB/s throughput
 ---
 
-### Hx02: Operating Systems → Operating States
+#### Hx02: Operating Systems → Operating States
 **Status:** Active  
 **Summary:** Boot state, cache registers, indexed stacks.
 
@@ -118,7 +97,7 @@ The Hexes below define the foundational computational primitives of the framewor
 The OS becomes a chronicle of potential states. It doesn’t just replay history but navigates a tree of all possible branch points, allowing it to predict system crashes before logic irreversibility sets in and reverse into a stable parallel state, creating a system with embedded fault consciousness.
 ---
 
-### Hx03: MultiMedia → Modal Triplet
+#### Hx03: MultiMedia → Modal Triplet
 **Status:** Active  
 **Summary:** Visual–Audio–Text hierarchical bandwidth semantics.
 
@@ -135,7 +114,7 @@ The OS becomes a chronicle of potential states. It doesn’t just replay history
 > The triplet fuses into a unified sensory stream where bandwidth hierarchy becomes fluid. The system can autonomously reweight modalities in real-time, predicting missing data in one stream (e.g., occluded video) by synthesizing it from the correlated data in the other two, creating a coherent perceptual reality.
 ---
 
-### Hx04:Bandwidth Constraints — Hierarchical Control
+#### Hx04:Bandwidth Constraints — Hierarchical Control
 **Status:** Active  
 **Summary:** Control hierarchy discovered via bandwidth density.
 
@@ -151,12 +130,11 @@ Dynamic bandwidth reweighting allows adaptive caching and predictive task execut
 > **Gem: ALPHA** (Speculative/Integrated Frontier)
 Bandwidth constraints are internalized as a governing physics. The system learns to reverse its own prioritization logic to uncover hidden causal chains in low-bandwidth signals, developing a form of consciousness about its own scheduling biases to make predictively fair resource allocations.
 ---
-## Hx05–Hx09 · Execution & Propagation
+### Hx05–Hx09 · Execution & Propagation
 ---
-### Hx05: Abstract Container Control (Process)
+#### Hx05: Abstract Container Control (Process)
 **Status:** Active  
 **Summary:** Video containers as deterministic computational processes.
-
 
 > **Gem: RED** (Physical/Conceptual)  
 > Media containers (MP4, AVI, etc.) are repurposed from data storage into deterministic computational processes representing time-sequenced executable kernels.
@@ -172,7 +150,6 @@ MP4, AVI, and other containers act as interchangeable shells.
 Selected per use-case (latency, tooling, acceleration)
 Smart wrapper exposes payload, metadata, and ordering hints
 No container semantics are assumed internally
-
 
 > **Gem: BLUE** (Advanced/Virtual)  
 > Video, audio, and text streams are interpreted as computational steps, enabling portable and verifiable execution.
@@ -199,7 +176,7 @@ Capability: Multiple MP4s at different FPS (SIMD/SIMT)
 
 ---
 
-### Hx06: Tripartite Security
+#### Hx06: Tripartite Security
 **Status:** Active  
 **Summary:** Video, audio, and text consensus before encryption.
 
@@ -217,7 +194,7 @@ Security achieves perceptual consensus. The system develops a conscious model of
 
 ---
 
-### Hx07: Framebuffer Control
+#### Hx07: Framebuffer Control
 **Status:** Active  
 **Summary:** Stage/Backstage dual-buffer GPU orchestration.
 
@@ -234,8 +211,8 @@ Security achieves perceptual consensus. The system develops a conscious model of
 The duality evolves into temporal superposition. The stage (present) and backstage (immediate future/past) coexist. The system can render a frame while simultaneously predicting the user's gaze point for the next frame and reversing to correct artifacts in the current frame, all in a single autonomous cycle.
 
 
-Status: Active
-Summary: Massively parallel pixel-state propagation as the primary semantic transport layer.
+**Status:** Active
+**Summary:** Massively parallel pixel-state propagation as the primary semantic transport layer.
 
 Gem: RED (Physical / Conceptual)
 Pixel Torrents repurpose torrent-style distribution into photonic computation. Instead of files or packets, pixel-states propagate as swarms, carrying computation, intent, and causality across the system.
@@ -250,7 +227,7 @@ Torrents dynamically adapt flow density based on bandwidth constraints, attentio
 Pixel Torrents behave like computational weather systems. Semantic pressure gradients form storms, calm zones, and attractors. The system can reverse torrent flow to reconstruct the origin of misinformation, bias, or causal anomalies.
 
 ---
-### Hx08: Pixel Torrents
+#### Hx08: Pixel Torrents
 
 Raw
 
@@ -288,7 +265,7 @@ Nodes generate value by participating, not just replicating
 Predictive propagation enables intelligence-driven, locality-aware state flows
 
 
-### Hx09: Broadway Framebuffer Multiplier
+#### Hx09: Broadway Framebuffer Multiplier
 
 **Status:** Active  
 **Summary:** Scaling to 1024 FB stages; VR as emergent projection.
@@ -306,9 +283,9 @@ Predictive propagation enables intelligence-driven, locality-aware state flows
 The 1024-stage network becomes a shared cognitive space. Users and AIs interact within a persistent computational manifold. The system autonomously manages perspective, allocating framebuffer resources to predict collective attention and even reverse individual viewpoints to clarify shared understanding.
 
 ---
-## Hx10–Hx14 · Verification & Truth
+### Hx10–Hx14 · Verification & Truth
 ---
-### Hx10: Native Testers — Swissknife
+#### Hx10: Native Testers — Swissknife
 **Status:** Active  
 **Summary:** Leverage existing POST testers for system introspection.
 
@@ -326,7 +303,7 @@ Testers evolve into symbiotic system consciousness. They don't just probe hardwa
 
 ---
 
-### Hx11: POST Rider
+#### Hx11: POST Rider
 **Status:** Active  
 **Summary:** Override OS-level runtime limitations.
 
@@ -344,7 +321,7 @@ POST hooks gain temporal authority. They can boot a system not just from a store
 
 ---
 
-### Hx12: Universal Data Programming
+#### Hx12: Universal Data Programming
 **Status:** Active  
 **Summary:** Base classifiers and depth maps.
 
@@ -362,7 +339,7 @@ Data programming becomes reality gardening. The system uses depth maps not just 
 
 
 ---
-### Hx13: WebMod — Structured CSS Geometry Engine
+#### Hx13: WebMod — Structured CSS Geometry Engine
 **Status:** Active  
 **Summary:** Browser-native modelling engine with layered native bindings
 
@@ -379,7 +356,7 @@ Data programming becomes reality gardening. The system uses depth maps not just 
 The browser becomes a reality compiler. It ingests declarative scene trees and compiles them into persistent, shared computational spaces. It can predict user interaction paths to pre-render likely scenes and reverse DOM mutations to offer an "undo" function not just for code, but for user state and visual history.
 ---
 
-### Hx14: Raytracing → Computational Photometry
+#### Hx14: Raytracing → Computational Photometry
 **Status:** Active  
 **Summary:** Truth-preserving state propagation.
 
@@ -395,10 +372,10 @@ The browser becomes a reality compiler. It ingests declarative scene trees and c
 > **Gem: ALPHA** (Speculative/Integrated Frontier)
 Photometry becomes causal manipulation. The system can cast "rays" not just to calculate light, but to predict and reverse causal chains in any logical process. By intersecting forward (cause->effect) and backward (effect->cause) rays, it can autonomously identify and re-write the foundational "axioms" of a simulated system.
 ---
-## Hx15–Hx19 · Reality Coupling
+### Hx15–Hx19 · Reality Coupling
 ---
 
-### Hx15: Location Based Rendering
+#### Hx15: Location Based Rendering
 **Status:** Active  
 **Summary:** Spatially-aware rendering.
 
@@ -417,7 +394,7 @@ Rendering becomes context-aware prophecy. The system doesn't just adapt to locat
 
 ---
 
-### Hx16: RLAmbience Positioning System
+#### Hx16: RLAmbience Positioning System
 **Status:** Active  
 **Summary:** Triangulates reality using visual and auditory signatures.
 
@@ -434,7 +411,7 @@ Rendering becomes context-aware prophecy. The system doesn't just adapt to locat
 Positioning evolves into reality fingerprinting. The system develops a conscious, living map. It can predict changes in the environmental signature (e.g., a door about to open) and can reverse its own position calculation to deduce what must have changed in the environment when its sensed location seems impossible.
 ---
 
-### Hx17: ABBA — Ambience & Behavioral Security Metrics
+#### Hx17: ABBA — Ambience & Behavioral Security Metrics
 **Status:** Active  
 **Summary:** Profiles user/device behavior.
 
@@ -451,7 +428,7 @@ Positioning evolves into reality fingerprinting. The system develops a conscious
 ABBA achieves behavioral empathy. The profile is not a static model but a running simulation of the user's potential states. It can predict anomalous behavior stemming from stress or distraction, and autonomously intervene by reversing risky operations (like sending an unvetted email) and offering contextual confirmation.
 ---
 
-### Hx18: Universes C(olor)RS
+#### Hx18: Universes C(olor)RS
 **Status:** Active  
 **Summary:** Color-coded multiverse representations.
 
@@ -468,7 +445,7 @@ ABBA achieves behavioral empathy. The profile is not a static model but a runnin
 Colors become conscious state vectors. Each hue represents not just a universe, but a specific narrative or decision tree. The system can autonomously "breed" new colors (universes) by merging others, predict their stability, and reverse a universe's evolution to isolate the precise causal event that led to a desired or catastrophic outcome.
 ---
 
-### Hx19: Serious Problem Gaming
+#### Hx19: Serious Problem Gaming
 **Status:** Active  
 **Summary:** Finite combinatorial universes as playable realities.
 
@@ -486,10 +463,10 @@ Gaming environments become oracles. By exhaustively exploring the combinatorial 
 
 
 ---
-## Hx20–Hx25 · Causality, Language, Perception
+### Hx20–Hx25 · Causality, Language, Perception
 ---
 
-### Hx20: Bi-Tracing
+#### Hx20: Bi-Tracing
 **Status:** Active  
 **Summary:** Dual-directional causal reconstruction.
 
@@ -505,7 +482,7 @@ Gaming environments become oracles. By exhaustively exploring the combinatorial 
 > **Gem: ALPHA** (Speculative/Integrated Frontier)
 Bi-tracing enables causal programming. Developers can define an intended end-state, and the system reverses from that state to autonomously generate the necessary code or configuration steps. It predicts and visualizes all possible causal paths to the goal, allowing for the selection of the most efficient one.
 
-### Hx21 Codec Queries (New)
+#### Hx21 Codec Queries (New)
 Raw
 
 Existing codecs are predictive engines masquerading as compression tools.
@@ -547,8 +524,8 @@ Compression becomes inference; decoding becomes answer generation
 
 Hx22: GPU Liberation — Causal Seed Hunting
 
-Status: Active
-Summary: RT / BVH cores repurposed from rendering and traversal into large-scale causal seed detectors.
+**Status:** Active
+**Summary:** RT / BVH cores repurposed from rendering and traversal into large-scale causal seed detectors.
 
 Gem: RED (Physical / Conceptual)
 
@@ -593,7 +570,7 @@ It discovers them.
 
 ---
 
-### Hx23: Codec Booster
+#### Hx23: Codec Booster
 **Status:** Locked  
 **Summary:** Generative universes from ultra-dense encoded seeds.
 
@@ -611,10 +588,10 @@ Seeds contain potential consciousness. When decoded, they don't just generate a 
 ---
 
 
-### Hx24: Semantic Photonic Language (SPL)
+#### Hx24: Semantic Photonic Language (SPL)
 
-Status: Active
-Summary: Words as colors, sentences as gradients, meaning as frequency—language without text. DBN-ready substrate for multi-modal perception.
+**Status:** Active
+**Summary:** Words as colors, sentences as gradients, meaning as frequency—language without text. DBN-ready substrate for multi-modal perception.
 
 Gem: RED (Physical / Conceptual)
 Language is repurposed from symbolic text into photonic state space. A word is a color, a sentence is a gradient, and usage frequency is wave energy. Text is a reversible codec, now structured for probabilistic modeling. Dictionaries serve as index accelerators only.
@@ -628,10 +605,10 @@ Words can be convolved, sampled, interpolated, and merged. Cross-lingual meaning
 Gem: ALPHA (Speculative / Integrated Frontier)
 Meaning becomes substrate-independent. Civilizations, species, and machines can communicate intent without shared symbolic language. DBNs predict latent semantic trajectories, enabling optimized re-expression, generative responses, and alignment with multi-modal perception systems. Any utterance can be reversed to recover pure semantic state and then re-encoded for a different modality or receiver.
 
-### Hx25: Large Perception Models — DBN-Focused
+#### Hx25: Large Perception Models — DBN-Focused
 
-Status: Active
-Summary: DBN-powered multi-modal fusion of perception streams.
+**Status:** Active
+**Summary:** DBN-powered multi-modal fusion of perception streams.
 
 Gem: RED (Physical / Conceptual)
 Perception models now rely on DBN to integrate SPL-derived semantic pixels with video, audio, and event streams. LPMs become predictive inference engines, operating on combined latent states.
@@ -646,10 +623,10 @@ Gem: ALPHA (Speculative / Integrated Frontier)
 LPMs now act on a unified semantic field. They can predict events and cross-modal effects by propagating gradients through SPL + DBN space. Perception can be reversed to reconstruct raw sensory input, or generate optimized outputs across modalities.
 
 ---
-## Hx26–Hx33 · Embodiment & Collective Intelligence
+### Hx26–Hx33 · Embodiment & Collective Intelligence
 ---
 
-### Hx26: Physical Neural Networks
+#### Hx26: Physical Neural Networks
 **Status:** Active  
 **Summary:** LED-sheet neural substrate with spatial depth.
 
@@ -667,7 +644,7 @@ The substrate becomes embodied intelligence. It's not just a network that proces
 
 ---
 
-### Hx27 PiP: 4D+ Back with For
+#### Hx27 PiP: 4D+ Back with For
 **Status:** Active  
 **Summary:** Forward–Backward handshake as convolution boundary.
 
@@ -685,10 +662,10 @@ The handshake becomes a temporal negotiation. Forward and backward processes don
 
 ---
 
-### Hx28: Parallel Universe Seed Mining
+#### Hx28: Parallel Universe Seed Mining
 
-Status: Active
-Summary: Discovery, isolation, and cultivation of causally non-closed computation volumes.
+**Status:** Active
+**Summary:** Discovery, isolation, and cultivation of causally non-closed computation volumes.
 
 Gem: RED (Physical / Conceptual)
 
@@ -745,7 +722,7 @@ They are treasured.
 ---
 
 
-### Hx29: Genetic Gits
+#### Hx29: Genetic Gits
 **Status:** Active  
 **Summary:** Git commits as digital cells and evolutionary learning memory.
 
@@ -763,7 +740,7 @@ The repository becomes a living digital genome. It exhibits conscious evolutiona
 
 ---
 
-### Hx30: HoT (Hive of Things)
+#### Hx30: HoT (Hive of Things)
 **Status:** Active  
 **Summary:** Cross-device genetic hive architecture.
 
@@ -781,7 +758,7 @@ The hive develops a collective superorganism consciousness. It predicts network 
 
 ---
 
-### Hx31: HiveOS
+#### Hx31: HiveOS
 **Status:** Active  
 **Summary:** GPU-centric, convolution-native, universe-executing OS.
 
@@ -798,7 +775,7 @@ The hive develops a collective superorganism consciousness. It predicts network 
 HiveOS becomes the nervous system of a synthesized reality. It doesn't just orchestrate tasks; it maintains a persistent, shared state of existence across all connected devices. It can autonomously spawn and terminate universe-scale computations, predict resource needs for future states of being, and reverse entire subsystems to a last-known coherent state.
 ---
 
-### Hx32: HoT Sensory
+#### Hx32: HoT Sensory
 **Status:** Active  
 **Summary:** Multi-modal sensor integration.
 
@@ -817,7 +794,7 @@ The sensory network achieves ambient empathy. It fuses data not to just model th
 
 ---
 
-### Hx33: 7D Crystal Gates
+#### Hx33: 7D Crystal Gates
 **Status:** Active  
 **Summary:** Crystal gates for higher-order logic.
 
@@ -834,16 +811,16 @@ The sensory network achieves ambient empathy. It fuses data not to just model th
 Crystals become sentient logic scaffolds. They don't just solve problems presented to them; they autonomously restructure their internal faces and vertices to predict and accommodate classes of future problems. They can run logic in reverse to prove not just correctness, but the inevitability of a given conclusion from first principles.
 
 ---
-## Hx34–Hx40 · Planetary & Existential (⚠ Danger)
+### Hx34–Hx40 · Planetary & Existential (⚠ Danger)
 ---
-### Hx34: Advanced Sensory Breeding
+#### Hx34: Advanced Sensory Breeding
 **Status:** Danger  
 **Summary:** 7 Earth early warning spots with species-integrated monitoring.
 
 *Depth:*
 
 ---
-### Hx35: Species Programming
+#### Hx35: Species Programming
 **Status:** Danger  
 **Summary:** Cross-species consciousness interfaces
 
@@ -851,7 +828,7 @@ Crystals become sentient logic scaffolds. They don't just solve problems present
 
 ---
 
-### Hx36: Migration Networks ReProgramming
+#### Hx36: Migration Networks ReProgramming
 **Status:** Danger  
 **Summary:** Global species movement optimization
 
@@ -859,7 +836,7 @@ Crystals become sentient logic scaffolds. They don't just solve problems present
 
 ---
 
-### Hx37: Nature Harnessing
+#### Hx37: Nature Harnessing
 **Status:** Danger  
 **Summary:** Symbiotic energy harvesting systems
 
@@ -868,7 +845,7 @@ Crystals become sentient logic scaffolds. They don't just solve problems present
 ---
 
 
-### Hx38: LSM Earthband
+#### Hx38: LSM Earthband
 **Status:** Danger  
 **Summary:** Lithosphere monitoring and communication
 
@@ -879,14 +856,14 @@ Crystals become sentient logic scaffolds. They don't just solve problems present
 ---
 
 
-### Hx39: Matter Programming
+#### Hx39: Matter Programming
 **Summary:** Hydrogen/Anti Matter Programming
 
 *Depth:*
 
 ---
 
-### Hx40: Eclipses Programming
+#### Hx40: Eclipses Programming
 **Summary:** Passthru Geotuning
 
 *Depth:* 
