@@ -2,7 +2,6 @@
 
 ## Back to the Future
 
-{{}}
 
 > HxLx is a unified systems theory that redefines computation as photonic, causal, and reversible. Pixels—extended across RGBA and the electromagnetic spectrum—form the atomic substrate. From this seed emerge operating states, multi‑modal perception, bandwidth‑driven control, codec‑as‑inference engines, causal GPU exploration, genetic memory, and universe‑scale orchestration. The framework is simultaneously an engineering architecture, a perception model, and a theory of computation.
 
