@@ -1,5 +1,5 @@
 # Initialize commit counter
-git config commit.counter 0
+git config commit.counter 85
 
 # Helper alias: auto-increment counter
 git config alias.nextcommit '!f() { \
