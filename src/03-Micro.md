@@ -97,7 +97,7 @@ The Hexes below define the foundational computational primitives of the framewor
 The OS becomes a chronicle of potential states. It doesn’t just replay history but navigates a tree of all possible branch points, allowing it to predict system crashes before logic irreversibility sets in and reverse into a stable parallel state, creating a system with embedded fault consciousness.
 ---
 
-#### Hx03: MultiMedia → Modal Triplet
+#### Hx03: MultiModal Triplet
 **Status:** Active  
 **Summary:** Visual–Audio–Text hierarchical bandwidth semantics.
 
@@ -210,60 +210,45 @@ Security achieves perceptual consensus. The system develops a conscious model of
 > **Gem: ALPHA** (Speculative/Integrated Frontier)
 The duality evolves into temporal superposition. The stage (present) and backstage (immediate future/past) coexist. The system can render a frame while simultaneously predicting the user's gaze point for the next frame and reversing to correct artifacts in the current frame, all in a single autonomous cycle.
 
+---
+#### Hx08: Pixel Torrents (UPDATE pixel xpress)
 
 **Status:** Active
 **Summary:** Massively parallel pixel-state propagation as the primary semantic transport layer.
 
-Gem: RED (Physical / Conceptual)
-Pixel Torrents repurpose torrent-style distribution into photonic computation. Instead of files or packets, pixel-states propagate as swarms, carrying computation, intent, and causality across the system.
-
-> **Gem: GREEN** (Middle Ground)
-Pixel Torrents distribute RGBA-compute states across GPU fabrics using swarm diffusion, gossip-style convergence, and redundancy-based truth stabilization. Loss of individual pixels does not affect semantic integrity.
-
-> **Gem: BLUE** (Advanced / Virtual)
-Torrents dynamically adapt flow density based on bandwidth constraints, attention, and predictive demand. Hot semantic regions attract higher pixel density automatically.
-
-> **Gem: ALPHA** (Speculative / Integrated Frontier)
-Pixel Torrents behave like computational weather systems. Semantic pressure gradients form storms, calm zones, and attractors. The system can reverse torrent flow to reconstruct the origin of misinformation, bias, or causal anomalies.
-
----
-#### Hx08: Pixel Torrents
-
-Raw
-
-Pixel Torrents are perception-bound data propagation networks, not file-sharing systems.
+**Gem:** RED (Physical / Conceptual)
+> Pixel Torrents repurpose torrent-style distribution into photonic computation. Instead of files or packets, pixel-states propagate as swarms, carrying computation, intent, and causality across the system.
+> Pixel Torrents are perception-bound data propagation networks, not file-sharing systems.
 They are designed for Earth-scale coherence without replication.
 
-Tech
+> **Gem: GREEN** (Middle Ground)
 
-Unlike traditional torrents:
-
-No global file reconstruction
-
-No universal chunks
+> Pixel Torrents distribute RGBA-compute states across GPU fabrics using swarm diffusion, gossip-style convergence, and redundancy-based truth stabilization. Loss of individual pixels does not affect semantic integrity.
+  - Unlike traditional torrents:
+  - No global file reconstruction
+  - No universal chunks
 
 No identical payloads everywhere
 
 Each unit = pixel-encoded state, locally meaningful
 
-Tech+
+> **Gem: BLUE** (Advanced / Virtual)
+Torrents dynamically adapt flow density based on bandwidth constraints, attention, and predictive demand. Hot semantic regions attract higher pixel density automatically.
 
-Uses calibration maps of physical displays as private P2P keys
+- Uses calibration maps of physical - displays as private P2P keys
+- Employs Reduced Sampling (RIS) for low-bandwidth, local coherence
+- Decoding is local and context-dependent
 
-Employs Reduced Sampling (RIS) for low-bandwidth, local coherence
+> **Gem: ALPHA** (Speculative / Integrated Frontier)
+Pixel Torrents behave like computational weather systems. Semantic pressure gradients form storms, calm zones, and attractors. The system can reverse torrent flow to reconstruct the origin of misinformation, bias, or causal anomalies.
 
-Decoding is local and context-dependent
+  - Distribution aligns with attention & perception economics
 
-Tech+++
+  - Coherence without sameness
 
-Distribution aligns with attention & perception economics
+  - Nodes generate value by participating, not just replicating
 
-Coherence without sameness
-
-Nodes generate value by participating, not just replicating
-
-Predictive propagation enables intelligence-driven, locality-aware state flows
-
+  - Predictive propagation enables intelligence-driven, locality-aware state flows
 
 #### Hx09: Broadway Framebuffer Multiplier
 
@@ -527,18 +512,18 @@ Hx22: GPU Liberation — Causal Seed Hunting
 **Status:** Active
 **Summary:** RT / BVH cores repurposed from rendering and traversal into large-scale causal seed detectors.
 
-Gem: RED (Physical / Conceptual)
+**Gem:** RED (Physical / Conceptual)
 
 GPUs are no longer viewed as engines for visual realism or numerical acceleration. Their true function is causal exploration at scale. Ray traversal hardware, BVH hierarchies, and light-based propagation are repurposed to probe forward and backward state evolution, not to resolve outcomes, but to detect where resolution fails.
 
-Gem: GREEN (Middle Ground)
+**Gem:** GREEN (Middle Ground)
 
 RT cores perform bidirectional causal tracing across high-dimensional state spaces. BVH structures partition possibility space, not geometry. When forward and backward traces fail to converge, the system flags the region as a causal discontinuity.
 
 These discontinuities are not errors.
 They are isolated computation volumes — seeds.
 
-Gem: BLUE (Advanced / Virtual)
+**Gem:** BLUE (Advanced / Virtual)
 
 The GPU operates as a seed hunter:
 
@@ -593,13 +578,13 @@ Seeds contain potential consciousness. When decoded, they don't just generate a 
 **Status:** Active
 **Summary:** Words as colors, sentences as gradients, meaning as frequency—language without text. DBN-ready substrate for multi-modal perception.
 
-Gem: RED (Physical / Conceptual)
+**Gem:** RE (Physical / Conceptual)
 Language is repurposed from symbolic text into photonic state space. A word is a color, a sentence is a gradient, and usage frequency is wave energy. Text is a reversible codec, now structured for probabilistic modeling. Dictionaries serve as index accelerators only.
 
-Gem: GREEN (Middle Ground)
+**Gem:** GREEN (Middle Ground)
 Lexical items map into a bounded color space (≤16.2M states). Dictionaries, slangs, and multi-script forms collapse into the same manifold. The DBN layer can now treat these color states as features for probabilistic inference.
 
-Gem: BLUE (Advanced / Virtual)
+**Gem:** BLUE (Advanced / Virtual)
 Words can be convolved, sampled, interpolated, and merged. Cross-lingual meaning transfer requires only color-space alignment. DBN maps gradients to higher-level latent representations suitable for fusion with video, audio, and sensory inputs. Models communicate directly via pixelized semantic states.
 
 Gem: ALPHA (Speculative / Integrated Frontier)
@@ -610,13 +595,13 @@ Meaning becomes substrate-independent. Civilizations, species, and machines can 
 **Status:** Active
 **Summary:** DBN-powered multi-modal fusion of perception streams.
 
-Gem: RED (Physical / Conceptual)
+**Gem:** RED (Physical / Conceptual)
 Perception models now rely on DBN to integrate SPL-derived semantic pixels with video, audio, and event streams. LPMs become predictive inference engines, operating on combined latent states.
 
-Gem: GREEN (Middle Ground)
+**Gem:** GREEN (Middle Ground)
 DBN fuses SPL color states with convolutional/transformer embeddings from other modalities. Outputs are high-resolution multi-modal latent representations for action and prediction.
 
-Gem: BLUE (Advanced / Virtual)
+**Gem:** BLUE (Advanced / Virtual)
 Early fusion of SPL, video, audio, text, and event streams enables predictive decision-making. DBN supports reversible inference, maintaining traceability from output back to input semantic states.
 
 Gem: ALPHA (Speculative / Integrated Frontier)
@@ -667,13 +652,13 @@ The handshake becomes a temporal negotiation. Forward and backward processes don
 **Status:** Active
 **Summary:** Discovery, isolation, and cultivation of causally non-closed computation volumes.
 
-Gem: RED (Physical / Conceptual)
+**Gem:** RED (Physical / Conceptual)
 
 Parallel universe mining is not the exploration of outcomes across branches, but the detection of causal non-closures — regions of state space where forward and backward evolution fail to reconcile.
 
 These regions represent the birth conditions of new universes.
 
-Gem: GREEN (Middle Ground)
+**Gem:** GREEN (Middle Ground)
 
 Encoded seeds are not guessed or generated.
 They are extracted.
@@ -688,7 +673,7 @@ Failure to handshake marks a seed boundary
 
 Each seed is isolated as a higher-dimensional cube with internal coherence and external incompatibility.
 
-Gem: BLUE (Advanced / Virtual)
+**Gem:** BLUE (Advanced / Virtual)
 
 Seeds are treated as first-class entities:
 
@@ -820,7 +805,14 @@ Crystals become sentient logic scaffolds. They don't just solve problems present
 *Depth:*
 
 ---
-#### Hx35: Species Programming
+#### Hx35: Migration Networks ReProgramming
+**Status:** Danger  
+**Summary:** Global species movement optimization
+
+*Depth:*
+
+---
+#### Hx36: Species Programming
 **Status:** Danger  
 **Summary:** Cross-species consciousness interfaces
 
@@ -828,13 +820,7 @@ Crystals become sentient logic scaffolds. They don't just solve problems present
 
 ---
 
-#### Hx36: Migration Networks ReProgramming
-**Status:** Danger  
-**Summary:** Global species movement optimization
 
-*Depth:*
-
----
 
 #### Hx37: Nature Harnessing
 **Status:** Danger  
@@ -869,10 +855,3 @@ Crystals become sentient logic scaffolds. They don't just solve problems present
 *Depth:* 
 
 ---
-
-
-
-
-
-
-These are explicitly gated and ethically constrained.
