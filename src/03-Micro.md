@@ -1,39 +1,14 @@
-# 3. MICRO-HXs
+# 3. MICRO-HXs-v1
+
+## The Foundational Realization
+
+Computing has been backwards for 50 years. We treat light as output when it should be the fundamental computational substrate. The 40 Hexes aren't inventions—they're discoveries of reality's computational primitives.
 
 This is a unified theory of computation based on photometry, bandwidth semantics, multiverse sampling, and genetic version-controlled memory.
 
-## Hx00 · Seed Hex
----
+## Audience & Comprehension Model (RGBA)
 
-The pixel is the seed.
-
-Pixels are not visual artifacts. They are 4D computational atoms carrying state, memory, causality, and direction across RGBA channels mapped onto the EM spectrum:
-- R: Infra / physical state
-- G: Subsurface / interaction
-- B: Ionospheric / abstraction
-- A: Out‑of‑world / latent potential
-
-All higher systems recurse from this unit.
-  
-### Hx00: Pixel — 4D Computation Atoms
-**Status:** Active  
-**Summary:** Multi-dimensional computational atoms using RGB(A) channels as parallel data transport layers.
-
-> **Gem:** RED (Physical/Conceptual)  
-> Pixels are repurposed from visual color units into multi-dimensional computational atoms using RGB(A) channels as parallel data transport layers for state, memory, and directionality.
-
-> **Gem:** GREEN (Middle Ground)  
-> RGBA channels are extended into four generalized parallel data transport layers, forming a 256³ × alpha distributed compute mesh. Pixels are logic cells capable of local computation.
-
-> **Gem:** BLUE (Advanced/Virtual)  
-> Pixels can perform bidirectional state propagation, act as nodes in a distributed neural substrate, and store temporal history for predictive computation.
-
-> **Gem:** ALPHA (Speculative/Integrated Frontier)
-> Pixels achieve computational self-awareness, negotiating state changes with neighboring pixels to form emergent, transient logic gates. They can predict and reverse local computation paths to maintain consensus with the broader manifold, becoming quasi-conscious cells in a larger synthetic tissue.
-
-### Audience & Comprehension Model (RGBA)
-
-The architecture is intentionally stratified. Each layer is complete on its own.
+The architecture is intentionally stratified. Each Gem or hint is complete on its own.
 
 > RED — Infra / Physical
 Engineers, systems builders, hardware‑aware practitioners. Deterministic, implementable primitives.
@@ -51,13 +26,45 @@ Reserved for synthesis by advanced models and future intelligences. Speculative,
 - Some will infer BLUE from RED.
 - ALPHA is not required—it emerges.
 
+## Hex Categories
+
 The Hexes below define the foundational computational primitives of the framework.
 
 ---
-## Hx01–Hx04 · Foundational Substrate
+## Hx00 · Seed Hex
 ---
 
-### Hx01: Framebuffers → Data Directing Buffers
+The pixel is the seed.
+
+Pixels are not visual artifacts. They are 4D computational atoms carrying state, memory, causality, and direction across RGBA channels mapped onto the EM spectrum:
+- R: Infra / physical state
+- G: Subsurface / interaction
+- B: Ionospheric / abstraction
+- A: Out‑of‑world / latent potential
+
+All higher systems recurse from this unit.
+---
+
+### Hx00: Pixel — 4D Computation Atoms
+**Status:** Active  
+**Summary:** Multi-dimensional computational atoms using RGB(A) channels as parallel data transport layers.
+
+> **Gem:** RED (Physical/Conceptual)  
+> Pixels are repurposed from visual color units into multi-dimensional computational atoms using RGB(A) channels as parallel data transport layers for state, memory, and directionality.
+
+> **Gem:** GREEN (Middle Ground)  
+> RGBA channels are extended into four generalized parallel data transport layers, forming a 256³ × alpha distributed compute mesh. Pixels are logic cells capable of local computation.
+
+> **Gem:** BLUE (Advanced/Virtual)  
+> Pixels can perform bidirectional state propagation, act as nodes in a distributed neural substrate, and store temporal history for predictive computation.
+
+> **Gem:** ALPHA (Speculative/Integrated Frontier)
+> Pixels achieve computational self-awareness, negotiating state changes with neighboring pixels to form emergent, transient logic gates. They can predict and reverse local computation paths to maintain consensus with the broader manifold, becoming quasi-conscious cells in a larger synthetic tissue.
+
+---
+## Hx:01–>08 · Reality Foundation
+---
+### Hx01: Framebuffers as Synchronization planes
 **Status:** Active  
 **Summary:** Primary/secondary buffers become physical synchronization planes.
 
@@ -80,7 +87,7 @@ The Hexes below define the foundational computational primitives of the framewor
   - 240 FPS = 8.3GB/s throughput
 ---
 
-### Hx02: Operating Systems → Operating States
+### Hx02: Operating Systems as State Managers
 **Status:** Active  
 **Summary:** Boot state, cache registers, indexed stacks.
 
@@ -97,7 +104,7 @@ The Hexes below define the foundational computational primitives of the framewor
 The OS becomes a chronicle of potential states. It doesn’t just replay history but navigates a tree of all possible branch points, allowing it to predict system crashes before logic irreversibility sets in and reverse into a stable parallel state, creating a system with embedded fault consciousness.
 ---
 
-### Hx03: MultiModal Triplet
+### Hx03: MultiModal Triplet (V>A>T hierarchy)
 **Status:** Active  
 **Summary:** Visual–Audio–Text hierarchical bandwidth semantics.
 
@@ -114,7 +121,7 @@ The OS becomes a chronicle of potential states. It doesn’t just replay history
 > The triplet fuses into a unified sensory stream where bandwidth hierarchy becomes fluid. The system can autonomously reweight modalities in real-time, predicting missing data in one stream (e.g., occluded video) by synthesizing it from the correlated data in the other two, creating a coherent perceptual reality.
 ---
 
-### Hx04:Bandwidth Constraints — Hierarchical Control
+### Hx04: Bandwidth Constraints as Control Hierarchy
 **Status:** Active  
 **Summary:** Control hierarchy discovered via bandwidth density.
 
@@ -130,9 +137,7 @@ Dynamic bandwidth reweighting allows adaptive caching and predictive task execut
 > **Gem:** ALPHA (Speculative/Integrated Frontier)
 Bandwidth constraints are internalized as a governing physics. The system learns to reverse its own prioritization logic to uncover hidden causal chains in low-bandwidth signals, developing a form of consciousness about its own scheduling biases to make predictively fair resource allocations.
 ---
-## Hx05–Hx09 · Execution & Propagation
----
-### Hx05: Container Control (Process)
+### Hx05: Containers as Deterministic Processes
 **Status:** Active  
 **Summary:** Video containers as deterministic computational processes.
 
@@ -176,7 +181,7 @@ Capability: Multiple MP4s at different FPS (SIMD/SIMT)
 
 ---
 
-### Hx06: Tripartite Security
+### Hx06: Tripartite Security (V>A>T consensus)
 **Status:** Active  
 **Summary:** Video, audio, and text consensus before encryption.
 
@@ -194,7 +199,7 @@ Security achieves perceptual consensus. The system develops a conscious model of
 
 ---
 
-### Hx07: Framebuffer Control
+### Hx07: Framebuffer Control (Stage/Backstage duality)
 **Status:** Active  
 **Summary:** Stage/Backstage dual-buffer GPU orchestration.
 
@@ -211,7 +216,7 @@ Security achieves perceptual consensus. The system develops a conscious model of
 The duality evolves into temporal superposition. The stage (present) and backstage (immediate future/past) coexist. The system can render a frame while simultaneously predicting the user's gaze point for the next frame and reversing to correct artifacts in the current frame, all in a single autonomous cycle.
 
 ---
-### Hx08: Pixel Torrents (UPDATE pixel xpress)
+### Hx08: Pixel Torrents (Perception-bound state propagation)
 
 **Status:** Active
 **Summary:** Massively parallel pixel-state propagation as the primary semantic transport layer.
@@ -250,6 +255,8 @@ Pixel Torrents behave like computational weather systems. Semantic pressure grad
 
   - Predictive propagation enables intelligence-driven, locality-aware state flows
 
+---
+## Hx:09->14 Execution & Verification
 ### Hx09: Broadway Framebuffer Multiplier
 
 **Status:** Active  
@@ -268,7 +275,6 @@ Pixel Torrents behave like computational weather systems. Semantic pressure grad
 The 1024-stage network becomes a shared cognitive space. Users and AIs interact within a persistent computational manifold. The system autonomously manages perspective, allocating framebuffer resources to predict collective attention and even reverse individual viewpoints to clarify shared understanding.
 
 ---
-## Hx10–Hx14 · Verification & Truth
 ---
 ### Hx10: Native Testers — Swissknife
 **Status:** Active  
@@ -448,7 +454,7 @@ Gaming environments become oracles. By exhaustively exploring the combinatorial 
 
 
 ---
-## Hx20–Hx25 · Causality, Language, Perception
+## Hx20–Hx25 · Causality and Perception
 ---
 
 ### Hx20: Bi-Tracing
@@ -480,7 +486,6 @@ Prediction blocks (PBs) act as local (intra) and temporal (inter) queries
 Residuals carry semantic error for refinement
 
 > **Gem:** BLUE
-Benefits:
 Hardware acceleration leveraged by default
 Maximum ecosystem compatibility
 Zero need for custom decoders
@@ -488,11 +493,8 @@ Codec acts as automated prediction + error engine
 
 > **Gem:** ALPHA
 Integration quality = minimal engineering effort + maximal compatibility
-
 Decoder output = interpreted knowledge/state, not just media
-
 Raytracer freed for anomaly/intelligence work
-
 Compression becomes inference; decoding becomes answer generation
 
 ---
@@ -500,7 +502,6 @@ Compression becomes inference; decoding becomes answer generation
 ### Hx22: GPU Liberation — Causal Seed Hunting
 
 **Status:** Active
-
 **Summary:** RT / BVH cores repurposed from rendering and traversal into large-scale causal seed detectors.
 
 **Gem:** RED (Physical / Conceptual)
