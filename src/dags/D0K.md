@@ -14,6 +14,7 @@ kanban
     task9[05-Macro]@{ ticket: Project , priority: 'Very High', assigned: 'Doc' }
     task10[06-Method]@{ ticket: Project , priority: 'Very High', assigned: 'Doc' }
     task11[07-Matter]@{ ticket: Project , priority: 'Very High', assigned: 'Doc' }
+    task12[Method>Macro>Market]@{ ticket: Project, priority: 'High', assigned: 'Doc' }
   column3[QC]
     task8[03-Micro]@{ ticket: Project, priority: 'Very High', assigned: 'Doc' }
   column4[STORE]
