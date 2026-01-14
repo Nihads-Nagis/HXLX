@@ -10,10 +10,7 @@ println!("Hello {}!", name);
 
 
 ```rust
-#![allow(unused)]
-fn main() {
 println!("Hello, World!");
-}
 ```
 
 {{#include dags/D0K.md:DK1}}
