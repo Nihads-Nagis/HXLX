@@ -36,11 +36,13 @@ The Hexes below define the foundational computational primitives of the framewor
 
 The pixel is the seed.
 
-Pixels are not visual artifacts. They are 4D computational atoms carrying state, memory, causality, and direction across RGBA channels mapped onto the EM spectrum:
-- R: Infra / physical state
-- G: Subsurface / interaction
-- B: Ionospheric / abstraction
-- A: Out‑of‑world / latent potential
+Pixels are not visual artifacts. They are 4D computational atoms carrying state, memory, causality, and direction across RGBA channels mapped onto the EM spectrum. 
+The architecture is intentionally stratified. Each Gem or hint is complete on its own.
+
+- R: Infra / physical state:
+- G: Subsurface / interaction:
+- B: Ionospheric / abstraction: 
+- A: Out‑of‑world / latent potential: Reserved for synthesis by advanced models and future intelligences. Speculative, emergent, consciousness‑adjacent. 
 
 All higher systems recurse from this unit.
 ---
