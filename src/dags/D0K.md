@@ -10,6 +10,8 @@ kanban
     task2[Full Screen]@{ ticket: MDViewer, priority: 'Low', assigned: 'Ux'}
     task3[Container Sizes]@{ ticket: MDViewer, priority: 'Low', assigned: 'Ux' }
     task13[MDQuiz]@{ ticket: PoCViewer , priority: 'Low', assigned: 'Ux'  }
+    task14[Glossary]@{ ticket:Builtin , priority: 'Low', assigned:  'Doc'}
+    task15[ZenUML]@{ ticket:MDViewer , priority: 'Low', assigned: 'Ux' }
   column2[PROCESS]
     task7[04-Mini]@{ ticket: Project , priority: 'Very High', assigned: 'Doc' }
     task9[05-Macro]@{ ticket: Project , priority: 'Very High', assigned: 'Doc' }
