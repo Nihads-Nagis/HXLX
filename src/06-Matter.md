@@ -1,4 +1,4 @@
-# 07. MATTER — Economic, Market & Civilization Impact
+# 06. MATTER — Economic, Market & Civilization Impact
 
 **DOCUMENT STATUS**
 This section consolidates *market scale, valuation logic, GDP impact, and civilization-level outcomes* into a single, coherent MATTER layer. It closes the loop between **MICRO (hexes)**, **MINI (products)**, **MACRO (economics)**, and **planetary consequence**.
@@ -9,12 +9,12 @@ MATTER answers one question only:
 
 ---
 
-## 7.1 Total Addressable Reality (TAR)
+## 6.1 Total Addressable Reality (TAR)
 
 We do not measure TAM as software spend.
 We measure **Total Addressable Reality** — the portion of civilization activity that can be sensed, computed, coordinated, or improved.
 
-### 7.1.1 Global Baseline
+### 6.1.1 Global Baseline
 
 * **Global GDP:** ~$100T annually
 * **Digitizable / Computable Reality:** ~70% of GDP
@@ -24,29 +24,25 @@ This places the **true ceiling** well beyond classical software markets.
 
 ---
 
-## 7.2 Core Market Domains
+## 6.2 Core Market Domains
 
-<!--The B00M contribution is missing-->
+| Domain               | Global Size | MINI LX Capture Logic      | Long-Term Capture |
+| -------------------- | ----------- | -------------------------- | ----------------- |
+| Consumer Electronics | $1.0T       | ZeroBoot / OEM entry       | $10B+             |
+| Digital Advertising  | $0.6T       | Ad4Boot / attention tokens | $30–120B          |
+| E-commerce           | $6.3T       | Win‑Win commerce           | $15–50B           |
+| Attention Economy    | $2.8T       | Boot tokens as currency    | $280B+            |
+| Operating Systems    | $0.4T       | Zero OS / HiveOS           | $40B              |
+| IoT                  | $1.0T       | HoT colonies               | $100B             |
+| AI / ML              | $0.2T       | Reality Engine             | $40B              |
 
-<!--Use the 7.2 table template with adjusted targets-->
-
-| Domain               | Global Size | MINI LX Capture Logic      | Targets | Capture (B$) |
-| -------------------- | ----------- | -------------------------- | ------- | -----------  |
-| Consumer Electronics | $1.0T       | ZeroBoot / OEM entry       | 1%-2.5% |   10-25      |
-| Digital Advertising  | $0.6T       | Ad4Boot / attention tokens | 5%-10%  |   30–60      |
-| E-commerce           | $6.3T       | Win‑Win commerce           | 1%-2.5% |   63–157     |
-| Attention Economy    | $2.8T       | Boot tokens as currency    | 10%-25% |  280-700     |
-| Operating Systems    | $0.4T       | Zero OS / HiveOS           | 5%-10%  |   20-40      |
-| IoT                  | $1.0T       | HoT colonies               | 10%-25% |  100-250     |
-| AI / ML              | $0.2T       | Reality Engine             | 5%-25%  |   10-50      |
-| BOOM | $100B  | 
-> **Aggregate Core Capture Potential:** **$500B+ annually**, excluding second‑order effects.
+**Aggregate Core Capture Potential:** **$500B+ annually**, excluding second‑order effects.
 
 ---
 
-## 7.3 Revenue Trajectory Scenarios
+## 6.3 Revenue Trajectory Scenarios
 
-### 7.3.1 Scenario Bands
+### 6.3.1 Scenario Bands
 
 **Conservative Case**
 
@@ -71,7 +67,7 @@ This places the **true ceiling** well beyond classical software markets.
 
 ---
 
-## 7.4 Valuation Logic (Infrastructure Multiple)
+## 6.4 Valuation Logic (Infrastructure Multiple)
 
 MINI LX is **not SaaS**. It behaves as:
 
@@ -96,9 +92,9 @@ Valuation increases with *time*, not exits.
 
 ---
 
-## 7.5 GDP Contribution Model
+## 6.5 GDP Contribution Model
 
-### 7.5.1 Time Reclamation
+### 6.5.1 Time Reclamation
 
 * Average wasted boot / wait time: ~30 seconds per boot
 * Global boots/day: ~4.5B
@@ -108,7 +104,7 @@ Even partial reinvestment produces **trillion‑dollar productivity gains**.
 
 ---
 
-### 7.5.2 Productivity Multipliers
+### 6.5.2 Productivity Multipliers
 
 * Faster boot → more work cycles
 * Better perception → fewer errors
@@ -123,9 +119,9 @@ Even partial reinvestment produces **trillion‑dollar productivity gains**.
 
 ---
 
-## 7.6 Labor & Work Transformation
+## 6.6 Labor & Work Transformation
 
-### 7.6.1 From Jobs to Contributions
+### 6.6.1 From Jobs to Contributions
 
 * Tasks → prompts
 * Salaries → rewards
@@ -133,7 +129,7 @@ Even partial reinvestment produces **trillion‑dollar productivity gains**.
 
 People earn by **improving the system**, not serving it.
 
-### 7.6.2 Creativity as Currency
+### 6.6.2 Creativity as Currency
 
 * Boot tokens
 * Carats
@@ -144,7 +140,7 @@ This replaces extractive labor markets with **creative economies**.
 
 ---
 
-## 7.7 Capital Flow Inversion
+## 6.7 Capital Flow Inversion
 
 Traditional flow:
 
@@ -158,7 +154,7 @@ Capital becomes **fuel**, not control.
 
 ---
 
-## 7.8 Systemic Stability & Anti‑Fragility
+## 6.8 Systemic Stability & Anti‑Fragility
 
 The system becomes *stronger* under pressure:
 
@@ -170,7 +166,7 @@ Economic incentives align all actors toward system survival.
 
 ---
 
-## 7.9 Civilization‑Scale Outcomes
+## 6.9 Civilization‑Scale Outcomes
 
 If successful, MINI LX enables:
 
@@ -185,7 +181,7 @@ This is **phase transition**.
 
 ---
 
-## 7.10 MATTER Summary
+## 6.10 MATTER Summary
 
 * Markets are large enough
 * Economics are self‑funding
