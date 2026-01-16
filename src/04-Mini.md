@@ -1,13 +1,18 @@
-# 4. MINI LXs - V01
+# 4. MINI LXs
+
+<!---->
+
 ## Pipeline Master Map
+
+Hx01, Hx02 Glossay Test
+
 {{#include dags/D04.md:D401}} 
 
 ---
-## Product Cards
----
+## LX0 Series
 ### LX00: B00T - Zero Boot Engine
 #### Status 
-Active Development | Release: Q3 2026 | Valuation Impact: $2.7T GDP
+Development: Active | Release: Q3 2026 | Valuation Impact: $2.7T GDP
 #### Doc
   - [Quality Plan: LXQ00](./HLX/LXQ-00.md)
 
@@ -57,6 +62,7 @@ Instant operating state loading through memory frame injection, bypassing tradit
 
 
 ---
+
 ### LX01: B01T - Security & Control Framework
 
 #### Status
@@ -89,6 +95,15 @@ Application containerization with multimodal security and deterministic process 
 
     Perceptual Encryption: Media codecs as encryption engines
 
+#### Specs
+
+    Security guarantee: Requires compromise of all 3 modalities
+
+    Container format: MP4 with video(kernel), audio(sync), text(commands)
+
+    Performance: Native hardware execution via frame injection
+
+    Compatibility: All existing binaries via QEMU wrapping
 
 
 #### Deliverables
@@ -99,15 +114,7 @@ Application containerization with multimodal security and deterministic process 
 
     Monetization: 15% transaction fee, enterprise licensing
 
-#### Specs
 
-    Security guarantee: Requires compromise of all 3 modalities
-
-    Container format: MP4 with video(kernel), audio(sync), text(commands)
-
-    Performance: Native hardware execution via frame injection
-
-    Compatibility: All existing binaries via QEMU wrapping
 ---
 ### LX02: B02T - Network & Communication Layer
 
@@ -194,13 +201,7 @@ High-performance computing environment and economic transaction layer.
 
     Z00Marche: Distributed digital asset marketplace
 
-#### Deliverables
 
-    B03T: IDE for developers and designers
-
-    Z00Marche: Distributed marketplace platform
-
-    Monetization: 5% transaction fees, premium tools
 
 #### Specs
 
@@ -211,7 +212,16 @@ High-performance computing environment and economic transaction layer.
     Marketplace: Bitcoin-settled, 0.25% target of global e-commerce
 
     Tools: Visual programming via geometry nodes
+#### Deliverables
 
+    B03T: IDE for developers and designers
+
+    Z00Marche: Distributed marketplace platform
+
+    Monetization: 5% transaction fees, premium tools
+
+
+## LX1 Series
 ### LX11: B00M - Physical AI Infrastructure
 
 #### Status 
@@ -237,6 +247,17 @@ Ambient intelligence and physical neural network deployment.
 
     Femto-Quantum Bridges: Femtosecond laser quantum-classical interfaces
 
+
+#### Specs
+
+    Positioning: 10-15 minute early warning for natural events
+
+    Language: 16.2M color states for semantic encoding
+
+    Perception: DBN fusion of SPL + video + audio + events
+
+    Hardware: 1km² TNN sheets with visible computation
+    
 #### Deliverables
 
     Ambience Sleuth: Environmental intelligence platform
@@ -252,15 +273,6 @@ Ambient intelligence and physical neural network deployment.
 
     Monetization: Enterprise security contracts, research licensing
 
-#### Specs
-
-    Positioning: 10-15 minute early warning for natural events
-
-    Language: 16.2M color states for semantic encoding
-
-    Perception: DBN fusion of SPL + video + audio + events
-
-    Hardware: 1km² TNN sheets with visible computation
 
 ### LX19: 0VV1 - Reality Engine & Gaming Platform
 
@@ -295,14 +307,6 @@ Core gaming/physics engine and Ether Exchange marketplace for attention and crea
 
     Serious Problem Gaming: Finite combinatorial universes as testbeds
 
-#### Deliverables
-
-    0W1: Core gaming engine and physics system
-
-    Ether Exchange: Marketplace for attention/creativity tokens
-
-    Monetization: 0.1% transaction fees, premium universe access
-
 #### Specs
 
     Computation: Light-shadow equilibrium detection for truth discovery
@@ -313,7 +317,17 @@ Core gaming/physics engine and Ether Exchange marketplace for attention and crea
 
     Scale: 1.1MB encodes 1M poker hands (2727:1 compression)
 
-### LX30: Z00S - Living IDE/Operating System
+#### Deliverables
+
+    0W1: Core gaming engine and physics system
+
+    Ether Exchange: Marketplace for attention/creativity tokens
+
+    Monetization: 0.1% transaction fees, premium universe access
+
+
+## LX2 Series
+### LX21: Z00S - Living IDE/Operating System
 
 #### Status
 Active Development | Release: Q4 2027 | Valuation Impact: OS Market Disruption
@@ -342,13 +356,6 @@ Git-native, self-healing operating system where the IDE is the control panel.
 
     Visual Programming: Geometry nodes, Orange3 widgets, Mermaid diagrams
 
-#### Deliverables
-
-    Z00S: Complete living OS distribution
-
-    Tools: Visual programming, collaborative editing, creation spaces
-
-    Monetization: Enterprise licensing, tool marketplace
 
 #### Specs
 
@@ -360,7 +367,16 @@ Git-native, self-healing operating system where the IDE is the control panel.
 
     Learning: Colony-wide synchronization of fixes and improvements
 
-### LX31: Z01S - Gamified Operating Universes
+#### Deliverables
+
+    Z00S: Complete living OS distribution
+
+    Tools: Visual programming, collaborative editing, creation spaces
+
+    Monetization: Enterprise licensing, tool marketplace
+
+
+### LX29: Z01S - Gamified Operating Universes
 
 #### Status
 Conceptual | Release: 2027 | Valuation Impact: Education Market
@@ -368,7 +384,7 @@ Conceptual | Release: 2027 | Valuation Impact: Education Market
 #### Purpose
 Operating system as game, where system operations are gamified experiences.
 
-#### Scope:
+#### Scope
 
     Hx12: POST override and customization
 
@@ -403,8 +419,9 @@ Operating system as game, where system operations are gamified experiences.
 
     Monetization: Educational licensing, premium game packs
 
+## LX3 Series
 
-### LX40: H0T - Hive of Things
+### LX31: H0T - Hive of Things
 
 #### Status
 Active Development | Release: Q1 2026 | Valuation Impact: $1T+ IoT Replacement
@@ -453,7 +470,7 @@ Semantic device ecosystem replacing traditional IoT with consciousness-aware coo
 
     Monetization: Device licensing, enterprise integration
 
-### LX41: H0S - Hive Operating System
+### LX39: H0S - Hive Operating System
 
 #### Status 
 Active Development | Release: Q2 2026 | Valuation Impact: OS Market Transformation
