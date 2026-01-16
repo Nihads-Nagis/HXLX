@@ -18,4 +18,5 @@ additional-css = ["src/assets/panzoom.css"]
 command = "mdbook-mermaid-panzoom"
 
 [preprocessor.termlink]
+optional = true
 glossary-path = "0G-Glossary.md"
