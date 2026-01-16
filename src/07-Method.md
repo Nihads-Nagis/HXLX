@@ -118,7 +118,7 @@ Purpose:
 METHOD replaces traditional management structures with a **cybernetic governance loop**, aligned with **ISO 9001** and **ISO 27001** principles.
 ###
 
-### 3. ZERO
+<!--### 3. ZERO to consolidate-->
 
 #### 1. Zero R&D
 
